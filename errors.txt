@@ -1,0 +1,18 @@
+url: http://www.fisioriosaude.com.br/curriculo.htmlIn URL: HTTPError has occured, continuing..HTTP Error 403: Forbidden
+url: https://www.bahraintaxi.com/In URL: HTTPError has occured, continuing..HTTP Error 406: Not Acceptable
+url: http://www.freshandcleancarpets.co.uk/book_us.htmlIn URL: HTTPError has occured, continuing..HTTP Error 404: 
+url: http://www.doolanplumbing.com.au/contact.htmlIn URL: URLError has occured, continuing..<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.doolanplumbing.com.au'. (_ssl.c:1045)>
+url: http://fufuprint.us/astronaut/admin/index.php?q=edit-page-27In URL: HTTPError has occured, continuing..HTTP Error 406: Not Acceptable
+url: https://renthmr.com/move-in-inspection.html?devicelock=desktopIn URL: HTTPError has occured, continuing..HTTP Error 406: Not Acceptable
+url: http://www.zgrada.hr/kontakt.htmIn URL: HTTPError has occured, continuing..HTTP Error 406: Not Acceptable
+url: http://www.foothillpreschool-monrovia.com/tour.phpIn URL: HTTPError has occured, continuing..HTTP Error 406: Not Acceptable
+url: https://wpcomwidgets.com/?wpcom_origin=https%3A%2F%2Ftribkswb.wordpress.comIn URL: BadStatusLine has occured, continuing..Remote end closed connection without response
+url: https://www.jotform.com/form/13105057250In URL: URLError has occured, continuing..<urlopen error EOF occurred in violation of protocol (_ssl.c:1045)>
+url: https://www.jotform.com/myforms3/opt/PopupTest.php?target=https%3A%2F%2Fwww.jotform.com%2Fnizalimousine%2Fniza-reservationsIn URL: URLError has occured, continuing..<urlopen error EOF occurred in violation of protocol (_ssl.c:1045)>
+url: http://www.helpadogsmile.org/adopt/application/In URL: HTTPError has occured, continuing..HTTP Error 406: Not Acceptable
+url: http://ekgelirgetirenisler.com/avrupa-networking-kataloguIn URL: HTTPError has occured, continuing..HTTP Error 406: Not Acceptable
+url: http://connect.hoar.com/SitePages/index.aspxIn URL: URLError has occured, continuing..<urlopen error [Errno 8] nodename nor servname provided, or not known>
+url: http://www.motifs-et-robes-cousues.fr/In URL: URLError has occured, continuing..<urlopen error [Errno 8] nodename nor servname provided, or not known>
+url: http://enginelab.mx/contacto.htmlIn URL: HTTPError has occured, continuing..HTTP Error 406: Not Acceptable
+url: http://wbmttphonesexjobs.com/In URL: HTTPError has occured, continuing..HTTP Error 406: Not Acceptable
+url: https://www.vhc.in/contact-us.htmlIn URL: HTTPError has occured, continuing..HTTP Error 406: Not Acceptable
